@@ -1,6 +1,6 @@
 ### Hi there👋,
 
-I'm Bhavesh, android developer from India, currently living in Melbourne, Australia. Currently learning new technologies like spring-boot and flutter.
+I'm Bhavesh, android developer from India currently living in Australia. Currently learning new technologies like spring-boot and flutter.
 
 
 - 📝 I regularly write articles on [https://www.raywenderlich.com/u/bmis0002](https://www.raywenderlich.com/u/bmis0002)
